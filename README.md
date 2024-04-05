@@ -1,7 +1,5 @@
 # GeminiDemo
-Gemini Pro API Demo project in Android and Jetpack Compose. Detailed article available at https://wajahatkarim.com/2024/02/getting-started-with-gemini-android-api/
-
-# How to use
+Gemini Pro API Demo project in Android and Jetpack Compose. 
 
 Get an API key for Gemini Pro API at https://aistudio.google.com and then add that API key in the local.properties file like below
 
